@@ -1,0 +1,90 @@
+[
+  {
+    "id": "home",
+    "name": "Início",
+    "icon": "home",
+    "group": "workspace",
+    "view": "home"
+  },
+  {
+    "id": "all",
+    "name": "Todos os programas",
+    "icon": "box",
+    "group": "workspace",
+    "view": "all"
+  },
+  {
+    "id": "navegadores",
+    "name": "Navegadores",
+    "icon": "globe",
+    "group": "categories"
+  },
+  {
+    "id": "compactadores",
+    "name": "Compactadores",
+    "icon": "archive",
+    "group": "categories"
+  },
+  {
+    "id": "acesso-remoto",
+    "name": "Acesso remoto",
+    "icon": "monitor",
+    "group": "categories"
+  },
+  {
+    "id": "diagnostico",
+    "name": "Diagnóstico e hardware",
+    "icon": "cpu",
+    "group": "categories"
+  },
+  {
+    "id": "drivers",
+    "name": "Drivers",
+    "icon": "drive",
+    "group": "categories"
+  },
+  {
+    "id": "windows",
+    "name": "Utilitários do Windows",
+    "icon": "wrench",
+    "group": "categories"
+  },
+  {
+    "id": "seguranca",
+    "name": "Segurança",
+    "icon": "shield",
+    "group": "categories"
+  },
+  {
+    "id": "multimidia",
+    "name": "Multimídia",
+    "icon": "play",
+    "group": "categories"
+  },
+  {
+    "id": "rede",
+    "name": "Ferramentas de rede",
+    "icon": "network",
+    "group": "categories"
+  },
+  {
+    "id": "recuperacao",
+    "name": "Recuperação de dados",
+    "icon": "recover",
+    "group": "categories"
+  },
+  {
+    "id": "essential",
+    "name": "Downloads essenciais",
+    "icon": "bolt",
+    "group": "personal",
+    "view": "essential"
+  },
+  {
+    "id": "favorites",
+    "name": "Favoritos",
+    "icon": "star",
+    "group": "personal",
+    "view": "favorites"
+  }
+]

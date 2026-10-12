@@ -1,0 +1,20 @@
+CHECKLIST DE ATENDIMENTO — CENTRAL TÉCNICA
+Documento próprio. Pode ser copiado, adaptado e redistribuído.
+
+ANTES DE COMEÇAR
+[ ] Confirmar com o cliente o problema e o serviço autorizado.
+[ ] Verificar a existência de cópia de segurança antes de alterar dados.
+[ ] Identificar sistema operacional e arquitetura nas configurações.
+
+DURANTE O ATENDIMENTO
+[ ] Registrar o sintoma e reproduzi-lo, quando possível.
+[ ] Escolher a ferramenta adequada e abrir a fonte oficial.
+[ ] Conferir compatibilidade, licença e origem do instalador.
+[ ] Executar somente ações autorizadas pelo cliente.
+
+AO FINALIZAR
+[ ] Verificar o resultado com o cliente.
+[ ] Remover acessos temporários que não serão mais utilizados.
+[ ] Entregar orientações sobre o que foi alterado.
+
+Este arquivo não executa comandos nem coleta informações.

@@ -1,0 +1,9 @@
+{
+  "name": "Central Técnica",
+  "logo": "assets/logo.svg",
+  "colors": {
+    "accent": "#58a6ff",
+    "green": "#238636",
+    "accentLight": "#0969da"
+  }
+}

@@ -1,0 +1,458 @@
+[
+  {
+    "id": "google-chrome",
+    "name": "Google Chrome",
+    "description": "Navegador do Google para o dia a dia.",
+    "category": "navegadores",
+    "tags": [
+      "browser",
+      "internet",
+      "navegador"
+    ],
+    "os": [
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "architectures": [],
+    "distribution": "Instalador",
+    "source": "Google",
+    "url": "https://www.google.com/chrome/",
+    "officialUrl": "https://www.google.com/chrome/",
+    "downloadType": "page",
+    "storage": "external",
+    "verifiedAt": "2026-10-11",
+    "addedAt": "2026-10-11",
+    "essential": true,
+    "icon": "globe",
+    "demo": true
+  },
+  {
+    "id": "7-zip",
+    "name": "7-Zip",
+    "description": "Compacte e extraia arquivos com facilidade.",
+    "category": "compactadores",
+    "tags": [
+      "zip",
+      "rar",
+      "7z",
+      "compactacao"
+    ],
+    "os": [
+      "Windows"
+    ],
+    "architectures": [
+      "x86",
+      "x64",
+      "ARM64"
+    ],
+    "distribution": "Instalador",
+    "source": "7-Zip",
+    "url": "https://www.7-zip.org/download.html",
+    "officialUrl": "https://www.7-zip.org/download.html",
+    "downloadType": "page",
+    "storage": "external",
+    "verifiedAt": "2026-10-11",
+    "addedAt": "2026-10-11",
+    "essential": true,
+    "icon": "archive",
+    "demo": true
+  },
+  {
+    "id": "anydesk",
+    "name": "AnyDesk",
+    "description": "Acesso remoto para suporte à distância.",
+    "category": "acesso-remoto",
+    "tags": [
+      "remote",
+      "suporte",
+      "remoto"
+    ],
+    "os": [
+      "Windows"
+    ],
+    "architectures": [],
+    "distribution": "Executável",
+    "source": "AnyDesk",
+    "url": "https://anydesk.com/en/downloads/windows",
+    "officialUrl": "https://anydesk.com/en/downloads/windows",
+    "downloadType": "page",
+    "storage": "external",
+    "verifiedAt": "2026-10-11",
+    "addedAt": "2026-10-11",
+    "essential": true,
+    "icon": "monitor",
+    "demo": true
+  },
+  {
+    "id": "cpu-z",
+    "name": "CPU-Z",
+    "description": "Identifique processador, memória e placa-mãe.",
+    "category": "diagnostico",
+    "tags": [
+      "cpu",
+      "processador",
+      "ram",
+      "hardware",
+      "diagnostico"
+    ],
+    "os": [
+      "Windows"
+    ],
+    "architectures": [
+      "x86",
+      "x64",
+      "ARM64"
+    ],
+    "distribution": "Instalador / ZIP",
+    "source": "CPUID",
+    "url": "https://www.cpuid.com/softwares/cpu-z.html",
+    "officialUrl": "https://www.cpuid.com/softwares/cpu-z.html",
+    "downloadType": "page",
+    "storage": "external",
+    "verifiedAt": "2026-10-11",
+    "addedAt": "2026-10-11",
+    "essential": true,
+    "icon": "cpu",
+    "demo": true
+  },
+  {
+    "id": "mozilla-firefox",
+    "name": "Mozilla Firefox",
+    "description": "Navegador com foco em privacidade e controle.",
+    "category": "navegadores",
+    "tags": [
+      "browser",
+      "internet",
+      "navegador"
+    ],
+    "os": [
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "architectures": [],
+    "distribution": "Instalador",
+    "source": "Mozilla",
+    "url": "https://www.mozilla.org/firefox/new/",
+    "officialUrl": "https://www.mozilla.org/firefox/new/",
+    "downloadType": "page",
+    "storage": "external",
+    "verifiedAt": "2026-10-11",
+    "addedAt": "2026-10-11",
+    "essential": false,
+    "icon": "globe",
+    "demo": true
+  },
+  {
+    "id": "rustdesk",
+    "name": "RustDesk",
+    "description": "Acesso remoto de código aberto.",
+    "category": "acesso-remoto",
+    "tags": [
+      "remote",
+      "remoto",
+      "suporte",
+      "open source"
+    ],
+    "os": [
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "architectures": [],
+    "distribution": "Instalador / portátil",
+    "source": "RustDesk",
+    "url": "https://rustdesk.com/",
+    "officialUrl": "https://rustdesk.com/",
+    "downloadType": "page",
+    "storage": "external",
+    "verifiedAt": "2026-10-11",
+    "addedAt": "2026-10-11",
+    "essential": false,
+    "icon": "monitor",
+    "demo": true
+  },
+  {
+    "id": "hwinfo",
+    "name": "HWiNFO",
+    "description": "Informações de hardware e monitoramento de sensores.",
+    "category": "diagnostico",
+    "tags": [
+      "temperatura",
+      "sensor",
+      "hardware",
+      "diagnostico"
+    ],
+    "os": [
+      "Windows"
+    ],
+    "architectures": [],
+    "distribution": "Instalador / portátil",
+    "source": "HWiNFO",
+    "url": "https://www.hwinfo.com/download/",
+    "officialUrl": "https://www.hwinfo.com/download/",
+    "downloadType": "page",
+    "storage": "external",
+    "verifiedAt": "2026-10-11",
+    "addedAt": "2026-10-11",
+    "essential": false,
+    "icon": "cpu",
+    "demo": true
+  },
+  {
+    "id": "crystaldiskinfo",
+    "name": "CrystalDiskInfo",
+    "description": "Consulte a saúde e os dados SMART de discos.",
+    "category": "diagnostico",
+    "tags": [
+      "ssd",
+      "hd",
+      "smart",
+      "disco",
+      "saude"
+    ],
+    "os": [
+      "Windows"
+    ],
+    "architectures": [],
+    "distribution": "Instalador / ZIP",
+    "source": "Crystal Dew World",
+    "url": "https://crystalmark.info/en/software/crystaldiskinfo/",
+    "officialUrl": "https://crystalmark.info/en/software/crystaldiskinfo/",
+    "downloadType": "page",
+    "storage": "external",
+    "verifiedAt": "2026-10-11",
+    "addedAt": "2026-10-11",
+    "essential": false,
+    "icon": "drive",
+    "demo": true
+  },
+  {
+    "id": "crystaldiskmark",
+    "name": "CrystalDiskMark",
+    "description": "Meça a velocidade de leitura e escrita de discos.",
+    "category": "diagnostico",
+    "tags": [
+      "ssd",
+      "hd",
+      "benchmark",
+      "disco",
+      "velocidade"
+    ],
+    "os": [
+      "Windows"
+    ],
+    "architectures": [],
+    "distribution": "Instalador / ZIP",
+    "source": "Crystal Dew World",
+    "url": "https://crystalmark.info/en/software/crystaldiskmark/",
+    "officialUrl": "https://crystalmark.info/en/software/crystaldiskmark/",
+    "downloadType": "page",
+    "storage": "external",
+    "verifiedAt": "2026-10-11",
+    "addedAt": "2026-10-11",
+    "essential": false,
+    "icon": "drive",
+    "demo": true
+  },
+  {
+    "id": "everything",
+    "name": "Everything",
+    "description": "Encontre arquivos e pastas rapidamente no Windows.",
+    "category": "windows",
+    "tags": [
+      "busca",
+      "pesquisa",
+      "arquivo",
+      "search"
+    ],
+    "os": [
+      "Windows"
+    ],
+    "architectures": [
+      "x86",
+      "x64",
+      "ARM64"
+    ],
+    "distribution": "Instalador / portátil",
+    "source": "voidtools",
+    "url": "https://www.voidtools.com/downloads/",
+    "officialUrl": "https://www.voidtools.com/downloads/",
+    "downloadType": "page",
+    "storage": "external",
+    "verifiedAt": "2026-10-11",
+    "addedAt": "2026-10-11",
+    "essential": false,
+    "icon": "search",
+    "demo": true
+  },
+  {
+    "id": "vlc",
+    "name": "VLC",
+    "description": "Reproduza vídeos e áudio em diversos formatos.",
+    "category": "multimidia",
+    "tags": [
+      "video",
+      "audio",
+      "player",
+      "codec"
+    ],
+    "os": [
+      "Windows"
+    ],
+    "architectures": [],
+    "distribution": "Instalador",
+    "source": "VideoLAN",
+    "url": "https://www.videolan.org/vlc/",
+    "officialUrl": "https://www.videolan.org/vlc/",
+    "downloadType": "page",
+    "storage": "external",
+    "verifiedAt": "2026-10-11",
+    "addedAt": "2026-10-11",
+    "essential": false,
+    "icon": "play",
+    "demo": true
+  },
+  {
+    "id": "rufus",
+    "name": "Rufus",
+    "description": "Crie mídias USB de instalação e inicialização.",
+    "category": "windows",
+    "tags": [
+      "usb",
+      "pendrive",
+      "boot",
+      "iso"
+    ],
+    "os": [
+      "Windows"
+    ],
+    "architectures": [
+      "x86",
+      "x64",
+      "ARM64"
+    ],
+    "distribution": "Executável / portátil",
+    "source": "Rufus",
+    "url": "https://rufus.ie/en/",
+    "officialUrl": "https://rufus.ie/en/",
+    "downloadType": "page",
+    "storage": "external",
+    "verifiedAt": "2026-10-11",
+    "addedAt": "2026-10-11",
+    "essential": false,
+    "icon": "drive",
+    "demo": true
+  },
+  {
+    "id": "ventoy",
+    "name": "Ventoy",
+    "description": "Prepare um pendrive para inicializar múltiplas ISOs.",
+    "category": "windows",
+    "tags": [
+      "usb",
+      "pendrive",
+      "boot",
+      "iso",
+      "multiboot"
+    ],
+    "os": [
+      "Windows",
+      "Linux"
+    ],
+    "architectures": [],
+    "distribution": "ZIP / arquivo compactado",
+    "source": "Ventoy",
+    "url": "https://www.ventoy.net/en/download.html",
+    "officialUrl": "https://www.ventoy.net/en/download.html",
+    "downloadType": "page",
+    "storage": "external",
+    "verifiedAt": "2026-10-11",
+    "addedAt": "2026-10-11",
+    "essential": false,
+    "icon": "drive",
+    "demo": true
+  },
+  {
+    "id": "recuva",
+    "name": "Recuva",
+    "description": "Ferramenta para recuperação de arquivos apagados.",
+    "category": "recuperacao",
+    "tags": [
+      "recuperacao",
+      "apagados",
+      "undelete",
+      "dados"
+    ],
+    "os": [
+      "Windows"
+    ],
+    "architectures": [],
+    "distribution": "Instalador",
+    "source": "CCleaner",
+    "url": "https://www.ccleaner.com/recuva/download",
+    "officialUrl": "https://www.ccleaner.com/recuva/download",
+    "downloadType": "page",
+    "storage": "external",
+    "verifiedAt": "2026-10-11",
+    "addedAt": "2026-10-11",
+    "essential": false,
+    "icon": "recover",
+    "demo": true
+  },
+  {
+    "id": "memtest86",
+    "name": "MemTest86",
+    "description": "Teste a memória RAM com uma mídia inicializável.",
+    "category": "diagnostico",
+    "tags": [
+      "memoria",
+      "ram",
+      "teste",
+      "boot",
+      "uefi"
+    ],
+    "os": [
+      "Inicializável (UEFI)"
+    ],
+    "architectures": [],
+    "distribution": "Imagem USB",
+    "source": "PassMark",
+    "url": "https://www.memtest86.com/download.htm",
+    "officialUrl": "https://www.memtest86.com/download.htm",
+    "downloadType": "page",
+    "storage": "external",
+    "verifiedAt": "2026-10-11",
+    "addedAt": "2026-10-11",
+    "essential": false,
+    "icon": "cpu",
+    "demo": true
+  },
+  {
+    "id": "checklist-atendimento",
+    "name": "Checklist de atendimento",
+    "description": "Roteiro simples para organizar o seu atendimento técnico.",
+    "details": "Documento próprio em texto, sem execução automática. Use como lembrete e adapte ao seu processo. Não inclua dados de clientes no portal.",
+    "category": "windows",
+    "tags": [
+      "checklist",
+      "roteiro",
+      "documento",
+      "atendimento"
+    ],
+    "os": [],
+    "architectures": [],
+    "distribution": "TXT",
+    "source": "Central Técnica · documento próprio",
+    "url": "downloads/checklist-atendimento.txt",
+    "officialUrl": "https://docs.github.com/en/pages",
+    "downloadType": "direct",
+    "storage": "local",
+    "addedAt": "2026-10-11",
+    "essential": false,
+    "icon": "file",
+    "demo": true
+  }
+]
+
